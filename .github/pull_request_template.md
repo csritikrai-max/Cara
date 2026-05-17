@@ -18,6 +18,10 @@ This will **auto-close** the issue when merged:
 
 > Fixes #<issue_number>
 
+
+
+
+
 ---
 
 ## 🖼️ Screenshots (if applicable)
